@@ -1,2 +1,2 @@
-# seyyidan_taskin
-Seyidhan Taşkın Tasks
+# seyyidhan_taskin
+Seyyidhan Taşkın Tasks
