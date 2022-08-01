@@ -11,9 +11,9 @@ func main() {
 	//TODO
 	//nesne isimlerini tasarlarken go dilinde en iyi kullanım
 	//camelCase yöntemidir araştıralım
-	visaexamscore := 80
-	finalexamscore := 60
-	bring := average(visaexamscore, finalexamscore)
+	visaExamScore := 80
+	finalExamScore := 60
+	bring := average(visaExamScore, finalExamScore)
 
 	fmt.Println(bring)
 
