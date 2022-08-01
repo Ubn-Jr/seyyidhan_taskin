@@ -2,8 +2,15 @@ package main
 
 import "fmt"
 
+//TODO
+//kod içerisinde koşul yapılarınıda kullanalım ve fonksiyonlara bir kaç tane daha ekleyelim 
+//çeşitliliği artıralım
+
 func main() {
 
+	//TODO
+	//nesne isimlerini tasarlarken go dilinde en iyi kullanım
+	//camelCase yöntemidir araştıralım
 	visaexamscore := 80
 	finalexamscore := 60
 	bring := average(visaexamscore, finalexamscore)
