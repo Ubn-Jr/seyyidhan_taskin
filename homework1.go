@@ -15,6 +15,11 @@ func main() {
 	finalExamScore := 60
 	bring := average(visaExamScore, finalExamScore)
 
+	
+	if visaExamScore := 80 {
+	if finalExamScore := 60
+
+}
 	fmt.Println(bring)
 
 }
