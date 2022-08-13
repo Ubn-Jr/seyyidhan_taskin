@@ -23,7 +23,7 @@ func main() {
 func calculatingTheOperationStrategy(targets [10]string, enemies [10]int, enemyCapacity int) int {
 
 	fmt.Println("Operation Started")
-	//var enemyCapacity int = 60
+	
 	var existingEnemy int = 0
 
 	for i := 0; i < len(targets); i++ {
@@ -40,10 +40,7 @@ func calculatingTheOperationStrategy(targets [10]string, enemies [10]int, enemyC
 		fmt.Println(existingEnemy)
 
 	} else {
-		/*existingEnemy = enemyCapacity
-
-		fmt.Println(enemyCapacity - existingEnemy)
-		fmt.Println(existingEnemy)*/
+		
 
 	}
 	return existingEnemy
